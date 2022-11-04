@@ -1,0 +1,35 @@
+{"page":1,"comment":" ---- Page 1 - Main ----"}
+{"page":1,"id":1,"obj":"img","src":"L:/bottle-black.png","w":100,"h":100,"x":170,"y":50,"click":"true","action":"p2","outline_color02":"red", "outline_width02":10,"outline_opa":50}
+{"page":1,"id":2,"obj":"img","src":"L:/diaper-black.png","w":100,"h":100,"x":320,"y":50,"click":"true","action":"p3","outline_color02":"red", "outline_width02":10,"outline_opa":50}
+{"page":1,"id":3,"obj":"img","src":"L:/sleep-black.png","w":100,"h":100,"x":170,"y":180,"click":"true","action":"p4","outline_color02":"red", "outline_width02":10,"outline_opa":50}
+{"page":1,"id":4,"obj":"img","src":"L:/measure-black.png","w":100,"h":100,"x":320,"y":180,"click":"true","action":"p5","outline_color02":"red", "outline_width02":10,"outline_opa":50}
+
+{"page":2,"comment":" ---- Page 2 - Food ----"}
+{"page":2,"id":1,"obj":"img","src":"L:/breast-black-left.png","w":100,"h":100,"x":170,"y":50,"click":"true","outline_color02":"red", "outline_width02":10,"outline_opa":50}
+{"page":2,"id":2,"obj":"img","src":"L:/breast-black-right.png","w":100,"h":100,"x":320,"y":50,"click":"true","outline_color02":"red", "outline_width02":10,"outline_opa":50}
+{"page":2,"id":3,"obj":"img","src":"L:/bottle-black.png","w":100,"h":100,"x":170,"y":180,"click":"true","outline_color02":"red", "outline_width02":10,"outline_opa":50}
+{"page":2,"id":4,"obj":"img","src":"L:/potje-black.png","w":100,"h":100,"x":320,"y":180,"click":"true","outline_color02":"red", "outline_width02":10,"outline_opa":50}
+
+{"page":3,"comment":" ---- Page 3 - Diaper ----"}
+{"page":3,"id":1,"obj":"img","src":"L:/wet-black.png","w":100,"h":100,"x":320,"y":50,"click":"true","outline_color02":"red", "outline_width02":10,"outline_opa":50}
+{"page":3,"id":2,"obj":"img","src":"L:/solid-black.png","w":100,"h":100,"x":170,"y":50,"click":"true","outline_color02":"red", "outline_width02":10,"outline_opa":50}
+{"page":3,"id":3,"obj":"img","src":"L:/solidwet-black.png","w":100,"h":100,"x":240,"y":180,"click":"true","outline_color02":"red", "outline_width02":10,"outline_opa":50}
+
+{"page":4,"comment":" ---- Page 4 - Relax ----"}
+{"page":4,"id":1,"obj":"img","src":"L:/sleep-start.png","w":100,"h":100,"x":15,"y":80,"click":"true"}
+{"page":4,"id":2,"obj":"img","src":"L:/sleep-end.png","w":100,"h":100,"x":15,"y":80,"click":"true"}
+{"page":4,"id":3,"obj":"spinner","x":180,"y":50,"w":36,"h":36,"bg_opa":0,"border_width":0,"line_width":6,"line_width10":6,"angle":80,"line_color":"white","line_color10":"green"}
+
+{"page":5,"comment":" ---- Page 5 - Measurements ----"}
+
+{"page":6,"comment":" ---- Page 6 - Bottle ----"}
+
+{"page":7,"comment":" ---- Page 7 - Jar ----"}
+
+{"page":0,"comment":" ---- Overall ----"}
+
+{"page":0,"id":1,"obj":"btn","action":"back","x":0,"y":290,"w":79,"h":32,"bg_color":"#2C3E50","text":"\uE141","text_color":"#FFFFFF","radius":0,"border_side":0,"text_font":28}
+
+{"page":0,"id":2,"obj":"label","x":5,"y":5,"h":50,"w":250,"text":"Baby Buddy","enabled":true,"hidden":false}
+
+
