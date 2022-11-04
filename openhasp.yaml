@@ -1,0 +1,24 @@
+openhasp:
+  plate_baby:
+    objects:
+      - obj: "p2b1" # Left Breast
+        event:
+          "up":
+            - service: script.baby_leftbreast  
+      - obj: "p2b2" # Right Breast
+        event:
+          "up":
+            - service: script.baby_rightbreast    
+      - obj: "p2b3" # Bottle
+        event:
+          "up":
+            - service: script.bottlefeed      
+      - obj: "p2b4" # Jar       
+      - obj: "p3b1" # Wet
+        event:
+          "up":
+            - service: script.baby_wet_diaper
+      - obj: "p3b2" # Solid
+        event:
+          "up":
+            - service: script.baby_solid_diaper
