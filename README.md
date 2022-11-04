@@ -1,7 +1,7 @@
 # babybuddydisplay
 WT32-SC01 openHasp device to control Baby Buddy
 
-Using this project to create a touchscreen device able to control Baby Buddy. At the moment just using basic controls to add feeds and diaper changes. I am using openHASP to run the plate and Home Assistant to interface with Baby Buddy.
+Using this project to create a touchscreen device able to control [BabyBuddy](https://github.com/babybuddy/babybuddy) . At the moment just using basic controls to add feeds and diaper changes. I am using openHASP to run the plate and Home Assistant to interface with Baby Buddy.
 
 Example screenshot:
 
